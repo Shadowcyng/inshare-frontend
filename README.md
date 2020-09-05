@@ -1,2 +1,0 @@
-# inshare-frontend
- 
